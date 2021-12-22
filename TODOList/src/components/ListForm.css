@@ -1,0 +1,15 @@
+.listform-label {
+  padding-right: 30px;
+  background-color: goldenrod;
+}
+
+.listform{
+    display: flex;
+
+}
+
+.listform-button{
+  background-color: red;
+  float: flex-end;
+  margin-left: 30px;
+}
